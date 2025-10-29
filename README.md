@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE student passionate about Artificial Intelligence, Machine Learning, and Computer Vision.<br>💻 I enjoy building cool projects, experimenting with OpenCV, and exploring AI-driven creativity.<br>🚀 Currently learning Unity Hub, AI Automation<br>🌱 I explore the intersection of consciousness research and AI<br>💬 Ask me about AI Philosophy, Gen-AI, or ML projects.<br>🧠 Interests: AI Research | Gen-AI | Human–AI Interaction | Open Source
+🎓 B.Tech CSE student passionate about Artificial Intelligence, Machine Learning, and Computer Vision.<br>💻 I enjoy building cool projects, experimenting with OpenCV, and exploring AI-driven creativity.<br>🚀 Currently learning Unity Hub, AI Automation<br>🌱 I explore the intersection of consciousness research and AI<br>💬 Ask me about AI Philosophy, Gen-AI, or ML projects.<br>🧠 Interests: AI Research | Gen–AI | Human–AI Interaction | Open Source
 
 
 ## 🌐 Socials:

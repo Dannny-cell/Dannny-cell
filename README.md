@@ -42,16 +42,13 @@
 ## 🛠️ Technical Arsenal
 
 ### 🧠 Agentic AI (Reasoning & Orchestration)
-
 <p align="left">
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/SmolAgent-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white" />
 </p>
 
 ### 🤖 Generative AI (Knowledge & Retrieval)
-
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-0077B5?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -59,8 +56,7 @@
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
 </p>
 
-### 👁️ NLP & Computer Vision (Perception)
-
+### 👁️ Perception (NLP & Computer Vision)
 <p align="left">
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
@@ -69,16 +65,6 @@
   <img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black" />
-</p>
-
-### 🌐 Core Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---

@@ -1,47 +1,86 @@
-# 💫 About Me:
-🎓 B.Tech CSE student passionate about Artificial Intelligence, Machine Learning, and Computer Vision.<br>💻 I enjoy building cool projects, experimenting with OpenCV, and exploring AI-driven creativity.<br>🚀 Currently learning Unity Hub, AI Automation<br>🌱 I explore the intersection of consciousness research and AI<br>💬 Ask me about AI Philosophy, Gen-AI, or ML projects.<br>🧠 Interests: AI Research | Gen–AI | Human–AI Interaction | Open Source
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Dhananjay%20Jaiswal&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhananjay-jaiswal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhananjayjaiswal505@gmail.com) 
-
-# 💻 Tech Stack:
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white)
-![VectorDB](https://img.shields.io/badge/VectorDB-5C2D91?style=for-the-badge&logo=vectordb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Dannny-cell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannny-cell&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dannny-cell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dannny-cell&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Agentic+AI+Architect;Computational+Poet;6th+Sem+CSE+@+SRMU;Philosophy+%26+Code" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dannny-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✒️ The Poet's Corner
+> *"नक़्श-ए-फ़रियादी है किस की शोख़ी-ए-तहरीर का..."* — **Ghalib**
+> 
+> *"He who has a why to live can bear almost any how."* — **Friedrich Nietzsche**
+> 
+> I operate at the intersection of **Artificial Intelligence** and **Human Consciousness**, exploring how machines can understand the nuance of human emotion.
+
+---
+
+## 🐍 My Contribution Jungle
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dannny-cell/Dannny-cell/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🚀 Featured Innovations
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/piano.png"/><br/>
+      <b><a href="https://github.com/Danny-cell/Virtual-Hand-Controlled-Piano">Virtual Hand Piano</a></b><br/>
+      OpenCV & MediaPipe controlled interactive instrument.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/pdf.png"/><br/>
+      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project">Multimodal RAG</a></b><br/>
+      Chat with PDFs using Llama-3.3, Groq, and ChromaDB.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/audio-wave.png"/><br/>
+      <b><a href="https://github.com/Dannny-cell/Audio-Manipulator">Audio Manipulator</a></b><br/>
+      Signal processing tool for real-time manipulation.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🤖 AI / ML / Agentic Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi&theme=dark" />
+</p>
+
+### 🌐 Infrastructure & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,github,azure,vercel,neo4j&theme=dark" />
+</p>
+
+---
+
+## 🗺️ Learning Roadmap (2026)
+
+| Technology | Focus Area | Proficiency |
+| :--- | :--- | :--- |
+| **Agentic AI** | `LlamaIndex` & `LangGraph` | ![75%](https://geps.dev/progress/75?dangerColor=00b4d8&accents=00b4d8) |
+| **AI Automation** | `Smolagents` & `CrewAI` | ![55%](https://geps.dev/progress/55?dangerColor=00b4d8&accents=00b4d8) |
+| **NLP & LLMs** | `Fine-tuning` & `Prompt Eng` | ![65%](https://geps.dev/progress/65?dangerColor=00b4d8&accents=00b4d8) |
+
+---
+
+## 📊 The Numbers
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dannny-cell&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannny-cell&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+<p align="center">
+  <a href="https://linkedin.com/in/dhananjay-jaiswal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:dhananjayjaiswal505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>

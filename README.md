@@ -22,27 +22,25 @@
 ---
 
 ## 🚀 Featured Innovations
-
 <table align="center">
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/48/34D399/piano.png"/><br/>
-      <b><a href="https://github.com/Danny-cell/Virtual-Hand-Controlled-Piano" style="color:#34D399;">Virtual Hand Piano</a></b><br/>
+      <b><a href="https://github.com/Dannny-cell/Virtual-Hand-Controlled-Piano"><font color="#34D399">Virtual Hand Piano</font></a></b><br/>
       OpenCV & MediaPipe controlled interactive instrument.
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/48/34D399/pdf.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project" style="color:#34D399;">Multimodal RAG</a></b><br/>
+      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project"><font color="#34D399">Multimodal RAG</font></a></b><br/>
       Chat with PDFs using Llama-3.3, Groq, and ChromaDB.
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/48/34D399/audio-wave.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Audio-Manipulator" style="color:#34D399;">Audio Manipulator</a></b><br/>
+      <b><a href="https://github.com/Dannny-cell/Audio-Manipulator"><font color="#34D399">Audio Manipulator</font></a></b><br/>
       Signal processing tool for real-time manipulation.
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Technical Arsenal

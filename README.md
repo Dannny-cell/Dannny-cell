@@ -41,6 +41,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🛠️ Technical Arsenal

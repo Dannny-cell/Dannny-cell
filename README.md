@@ -75,7 +75,7 @@
   <br>
   <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=34D399" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=34D399" height="90" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoft-azure&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM0RDM5OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMuMjMgMi4yTDIuMzkgMjEuOGgyLjgzbDIuMTgtNS40NGg5LjQzbDIuNDQgNS40NGgyLjg1TDEzLjIzIDIuMnoiLz48L3N2Zz4=" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=34D399" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
@@ -89,6 +89,7 @@
 | **Agentic AI** | `LangGraph` & `Orchestration` | ![50%](https://geps.dev/progress/50?dangerColor=022C22&accents=34D399) |
 | **Gen AI** | `Neo4j` & `Knowledge Sourcing` | ![80%](https://geps.dev/progress/80?dangerColor=022C22&accents=34D399) |
 | **Vision Systems** | `Mediapipe` & `Gesture Logic` | ![85%](https://geps.dev/progress/85?dangerColor=022C22&accents=34D399) |
+
 
 ---
 

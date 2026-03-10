@@ -43,41 +43,41 @@
 
 ### 🧠 Agentic AI (Reasoning & Orchestration)
 <p align="left">
-  <img src="https://img.shields.io/badge/LlamaIndex-020617?style=for-the-badge&logo=llamaindex&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/LangGraph-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/SmolAgent-020617?style=for-the-badge&logo=huggingface&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/CrewAI-020617?style=for-the-badge&logo=crewai&logoColor=34D399" height="40" />
+  <img src="https://img.shields.io/badge/LlamaIndex-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzM0RDM5OSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgM2MtMi4yIDAtNCAxLjgtNCA0djEwYzAgMS4xLjkgMiAyIDJoNGMxLjEgMCAyLS45IDItMlY3YzAtMi4yLTEuOC00LTQtNHptLTIgN2gxdi00aDJ2NGgxdjJoLTR2LTJ6Ii8+PC9zdmc+&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/LangGraph-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/SmolAgent-020617?style=for-the-badge&logo=huggingface&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/CrewAI-020617?style=for-the-badge&logo=crewai&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
 
 ### 🤖 Generative AI (Knowledge & Retrieval)
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/ChromaDB-020617?style=for-the-badge&logo=googlecloudspanner&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Neo4j-020617?style=for-the-badge&logo=neo4j&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-020617?style=for-the-badge&logo=weightsandbiases&logoColor=34D399" height="40" />
+  <img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/ChromaDB-020617?style=for-the-badge&logo=googlecloudspanner&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Neo4j-020617?style=for-the-badge&logo=neo4j&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-020617?style=for-the-badge&logo=weightsandbiases&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
 
 ### 👁️ Perception (NLP & Computer Vision)
 <p align="left">
-  <img src="https://img.shields.io/badge/NLTK-020617?style=for-the-badge&logo=python&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/SpaCy-020617?style=for-the-badge&logo=spacy&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Hugging_Face-020617?style=for-the-badge&logo=huggingface&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/MediaPipe-020617?style=for-the-badge&logo=google&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/YOLO-020617?style=for-the-badge&logo=ultralytics&logoColor=34D399" height="40" />
+  <img src="https://img.shields.io/badge/NLTK-020617?style=for-the-badge&logo=python&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/SpaCy-020617?style=for-the-badge&logo=spacy&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-020617?style=for-the-badge&logo=huggingface&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/MediaPipe-020617?style=for-the-badge&logo=google&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/YOLO-020617?style=for-the-badge&logo=ultralytics&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
 
 ### 🌐 Core Infrastructure & Deployment
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=34D399" height="40" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoft-azure&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=34D399" height="40" />
-  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=34D399" height="40" />
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=34D399" height="90" style="margin:8px"/>
+  <br>
+  <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=microsoft-azure&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
 
 ---

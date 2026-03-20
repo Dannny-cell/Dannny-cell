@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=34D399" height="90" style="margin:8px"/>
   <br>
   <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-020617?style=for-the-badge&logo=huggingface&logoColor=34D399" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Supabase-020617?style=for-the-badge&logo=supabase&logoColor=34D399" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Azure-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM0RDM5OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTMuMjMgMi4yTDIuMzkgMjEuOGgyLjgzbDIuMTgtNS40NGg5LjQzbDIuNDQgNS40NGgyLjg1TDEzLjIzIDIuMnoiLz48L3N2Zz4=" height="90" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=34D399" height="90" style="margin:8px"/>

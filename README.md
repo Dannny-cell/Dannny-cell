@@ -56,10 +56,11 @@
 
 ### 🤖 Generative AI (Knowledge & Retrieval)
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="90" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/ChromaDB-020617?style=for-the-badge&logo=googlecloudspanner&logoColor=34D399" height="90" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/Neo4j-020617?style=for-the-badge&logo=neo4j&logoColor=34D399" height="90" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-020617?style=for-the-badge&logo=weightsandbiases&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/LangSmith-020617?style=for-the-badge&logo=langchain&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/ChromaDB-020617?style=for-the-badge&logo=googlecloudspanner&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Neo4j-020617?style=for-the-badge&logo=neo4j&logoColor=34D399" height="90" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-020617?style=for-the-badge&logo=weightsandbiases&logoColor=34D399" height="90" style="margin:8px"/>
 </p>
 
 ### 👁️ Perception (NLP & Computer Vision)

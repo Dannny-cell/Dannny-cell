@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dannny-cell&label=Profile%20Views&color=10B981&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Dannny-cell?label=Total%20Stars&style=for-the-badge&color=10B981" />
-  <img src="https://img.shields.io/github/followers/Dannny-cell?label=Followers&style=for-the-badge&color=10B981" />
+  <img src="https://img.shields.io/github/followers/Dannny-cell?label=Followers&style=for-the-badge&color=10B981&logo=github" />
 </p>
 
 ---

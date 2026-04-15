@@ -21,27 +21,37 @@
 
 ---
 
-## 🚀 Featured Innovations
+## 🚀 Featured Projects
+
 <table align="center">
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/48/34D399/piano.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Virtual-Hand-Controlled-Piano"><font color="#34D399">Virtual Hand Piano</font></a></b><br/>
-      OpenCV & MediaPipe controlled interactive instrument.
+      <b><a href="https://github.com/Dannny-cell/Virtual-Hand-Controlled-Piano">Virtual Hand Piano</a></b><br/>
+      <sub>Gesture-controlled virtual keyboard using MediaPipe hand tracking and OpenCV with real-time audio playback.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat"/>
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/48/34D399/pdf.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project"><font color="#34D399">Multimodal RAG</font></a></b><br/>
-      Chat with PDFs using Llama-3.3, Groq, and ChromaDB.
+      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project">Multimodal RAG PDF</a></b><br/>
+      <sub>End-to-end RAG pipeline over PDFs with OCR, page captioning, vector search, and RAGAS evaluation — served via Streamlit.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat"/>
+      <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BLIP-4A90D9?style=flat"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/audio-wave.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Audio-Manipulator"><font color="#34D399">Audio Manipulator</font></a></b><br/>
-      Signal processing tool for real-time manipulation.
+      <img src="https://img.icons8.com/fluency/48/34D399/bot.png"/><br/>
+      <b><a href="https://github.com/Dannny-cell/Market_Researcher_Crewai">Market Research Agent</a></b><br/>
+      <sub>Autonomous multi-agent system for deep market research, competitive intelligence, and product strategy analysis.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/CrewAI-22C55E?style=flat"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Serper-4285F4?style=flat"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🛠️ Technical Arsenal

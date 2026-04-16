@@ -22,7 +22,6 @@
 ---
 
 ## 🚀 Featured Projects
-
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -51,8 +50,20 @@
       <img src="https://img.shields.io/badge/Serper-4285F4?style=flat"/>
     </td>
   </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/34D399/artificial-intelligence.png"/><br/>
+      <b><a href="https://github.com/Dannny-cell/Smartedge-Fixit-Club-AMD-Slingshot-Hackathon">SmartEdge Copilot</a></b><br/>
+      <sub>AI-powered research & meeting intelligence platform with auto task extraction, unified knowledge search, and real-time analytics — built for AMD Slingshot 2025.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+    </td>
+    <td width="33%" align="center"></td>
+    <td width="33%" align="center"></td>
+  </tr>
 </table>
----
 
 ## 🛠️ Technical Arsenal
 

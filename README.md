@@ -20,8 +20,8 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
+
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -60,7 +60,15 @@
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
     </td>
-    <td width="33%" align="center"></td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/34D399/box.png"/><br/>
+      <b><a href="https://github.com/Saksham653/Supply-Chain-Open-env">Supply Chain OpenEnv</a></b><br/>
+      <sub>Real-world warehouse inventory benchmark for agents to simulate stock reordering, budget management, and demand forecasting.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+    </td>
     <td width="33%" align="center"></td>
   </tr>
 </table>

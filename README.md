@@ -22,56 +22,88 @@
 ---
 ## 🚀 Featured Projects
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="12">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/piano.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Virtual-Hand-Controlled-Piano">Virtual Hand Piano</a></b><br/>
-      <sub>Gesture-controlled virtual keyboard using MediaPipe hand tracking and OpenCV with real-time audio playback.</sub><br/><br/>
+    <!-- Virtual Piano -->
+    <td width="33%" valign="top" align="left">
+      <img src="https://img.icons8.com/fluency/48/piano.png"/><br/><br/>
+      <b><a href="https://github.com/Dannny-cell/Virtual-Hand-Controlled-Piano" target="_blank">Virtual Hand Piano</a></b><br/>
+      <sub>Gesture-controlled virtual keyboard using MediaPipe and OpenCV</sub><br/><br/>
+      Real-time piano you play with your hands via webcam.<br/><br/>
+      • 21-point hand tracking<br/>
+      • Hover + press detection<br/>
+      • Real .wav audio playback<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat"/>
+      <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat"/><br/><br/>
+      <!-- Star (auto updates) -->
+      <img src="https://img.shields.io/github/stars/Dannny-cell/Virtual-Hand-Controlled-Piano?style=flat"/>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/pdf.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project">Multimodal RAG PDF</a></b><br/>
-      <sub>End-to-end RAG pipeline over PDFs with OCR, page captioning, vector search, and RAGAS evaluation — served via Streamlit.</sub><br/><br/>
+    <!-- RAG PDF -->
+    <td width="33%" valign="top" align="left">
+      <img src="https://img.icons8.com/fluency/48/pdf.png"/><br/><br/>
+      <b><a href="https://github.com/Dannny-cell/multimodal-rag-pdf-Project" target="_blank">Multimodal RAG PDF</a></b><br/>
+      <sub>Production-grade document intelligence over PDFs</sub><br/><br/>
+      Chat with PDFs using OCR, vector search, and LLM streaming.<br/><br/>
+      • OCR + BLIP extraction<br/>
+      • ChromaDB retrieval<br/>
+      • Evaluation metrics<br/><br/>
       <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat"/>
       <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BLIP-4A90D9?style=flat"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/github/stars/Dannny-cell/multimodal-rag-pdf-Project?style=flat"/>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/bot.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Market_Researcher_Crewai">Market Research Agent</a></b><br/>
-      <sub>Autonomous multi-agent system for deep market research, competitive intelligence, and product strategy analysis.</sub><br/><br/>
+    <!-- Market Agent -->
+    <td width="33%" valign="top" align="left">
+      <img src="https://img.icons8.com/fluency/48/bot.png"/><br/><br/>
+      <b><a href="https://github.com/Dannny-cell/Market_Researcher_Crewai" target="_blank">Market Research Agent</a></b><br/>
+      <sub>Autonomous multi-agent market intelligence system</sub><br/><br/>
+      End-to-end research and strategy pipeline.<br/><br/>
+      • 5-agent workflow<br/>
+      • Competitive insights<br/>
+      • ROI analysis<br/><br/>
       <img src="https://img.shields.io/badge/CrewAI-22C55E?style=flat"/>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Serper-4285F4?style=flat"/>
+      <img src="https://img.shields.io/badge/Serper-4285F4?style=flat"/><br/><br/>
+      <img src="https://img.shields.io/github/stars/Dannny-cell/Market_Researcher_Crewai?style=flat"/>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/artificial-intelligence.png"/><br/>
-      <b><a href="https://github.com/Dannny-cell/Smartedge-Fixit-Club-AMD-Slingshot-Hackathon">SmartEdge Copilot</a></b><br/>
-      <sub>AI-powered research & meeting intelligence platform with auto task extraction, unified knowledge search, and real-time analytics — built for AMD Slingshot 2025.</sub><br/><br/>
+    <!-- SmartEdge -->
+    <td width="33%" valign="top" align="left">
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br/><br/>
+      <b><a href="https://github.com/Dannny-cell/Smartedge-Fixit-Club-AMD-Slingshot-Hackathon" target="_blank">SmartEdge Copilot</a></b><br/>
+      <sub>AI-powered research and meeting intelligence platform</sub><br/><br/>
+      Structured AI outputs into tasks, notes, analytics.<br/><br/>
+      • Meeting summaries + tasks<br/>
+      • Knowledge search<br/>
+      • Analytics dashboard<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Groq-000000?style=flat&logo=groq&logoColor=white"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/github/stars/Dannny-cell/Smartedge-Fixit-Club-AMD-Slingshot-Hackathon?style=flat"/>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/fluency/48/34D399/box.png"/><br/>
-      <b><a href="https://github.com/Saksham653/Supply-Chain-Open-env">Supply Chain OpenEnv</a></b><br/>
-      <sub>Real-world warehouse inventory benchmark for agents to simulate stock reordering, budget management, and demand forecasting.</sub><br/><br/>
+    <!-- Supply Chain -->
+    <td width="33%" valign="top" align="left">
+      <img src="https://img.icons8.com/fluency/48/box.png"/><br/><br/>
+      <b><a href="https://github.com/Saksham653/Supply-Chain-Open-env" target="_blank">Supply Chain OpenEnv</a></b><br/>
+      <sub>Warehouse inventory benchmark for AI agents</sub><br/><br/>
+      Simulates stock planning under constraints.<br/><br/>
+      • Multi-SKU simulation<br/>
+      • Budget constraints<br/>
+      • Deterministic scoring<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/github/stars/Saksham653/Supply-Chain-Open-env?style=flat"/>
     </td>
-    <td width="33%" align="center"></td>
+    <td width="33%"></td>
+
   </tr>
 </table>
+
+---
+
 
 ## 🛠️ Technical Arsenal
 

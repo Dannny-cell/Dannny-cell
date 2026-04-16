@@ -150,17 +150,6 @@
 
 ---
 
-## 🗺️ Learning Roadmap (2026)
-
-| Technology | Focus Area | Proficiency |
-| :--- | :--- | :--- |
-| **Agentic AI** | `LangGraph` & `Orchestration` | ![50%](https://geps.dev/progress/50?dangerColor=022C22&accents=34D399) |
-| **Gen AI** | `Neo4j` & `Knowledge Sourcing` | ![80%](https://geps.dev/progress/80?dangerColor=022C22&accents=34D399) |
-| **Vision Systems** | `Mediapipe` & `Gesture Logic` | ![85%](https://geps.dev/progress/85?dangerColor=022C22&accents=34D399) |
-
-
----
-
 ## 📊 The Numbers
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannny-cell&hide_border=true&background=020617&ring=34D399&fire=10B981&currStreakNum=ECFDF5&currStreakLabel=10B981&sideNums=ECFDF5&sideLabels=10B981&dates=ECFDF5" width="100%" />

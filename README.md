@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Agentic+AI+Architect;Loves+AI+Philosophy;Generative+AI+Enthusiast;RAG+%26+Graph+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&speed=100&color=10B981&center=true&vCenter=true&width=500&lines=Agentic+AI+Architect;Loves+AI+Philosophy;Generative+AI+Enthusiast;RAG+%26+Graph+Specialist" />
 </p>
 
 <p align="center">

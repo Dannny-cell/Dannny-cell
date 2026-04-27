@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&speed=100&color=10B981&center=true&vCenter=true&width=500&lines=Agentic+AI+Architect;Loves+AI+Philosophy;Generative+AI+Enthusiast;RAG+%26+Graph+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2100&pause=900&color=10B981&center=true&vCenter=true&width=500&lines=Agentic+AI+Architect;Loves+AI+Philosophy;Generative+AI+Enthusiast;RAG+%26+Graph+Specialist" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dannny-cell&label=Profile%20Views&color=10B981&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/dannny-cell.svg?label=Total%20Stars&style=for-the-badge&color=10B981" />
